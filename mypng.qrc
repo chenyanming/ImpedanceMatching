@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/MyFiles">
+        <file>impedancet.png</file>
+        <file>picircuit.png</file>
+        <file>seriesl.png</file>
+        <file>shuntl.png</file>
+        <file>tappedcapacitor.png</file>
+        <file>tcircuit.png</file>
+    </qresource>
+</RCC>
